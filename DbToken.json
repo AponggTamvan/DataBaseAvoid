@@ -50,7 +50,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-05-24T05:22:16.604Z",
-      "updatedAt": "2026-05-24T05:23:39.269Z",
+      "updatedAt": "2026-05-24T05:23:44.247Z",
       "approvedBy": 1339031742,
       "approvedByUsername": "ikyymaunikah",
       "finalPeriod": "permanent",
@@ -88,7 +88,7 @@
           "groupName": "STAFF",
           "chatId": -1003985809807,
           "inviteLink": "https://t.me/+8s6mt8ZbPMljOGZl",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-05-24T05:22:38.233Z",
           "expiresAt": null
         }
@@ -156,14 +156,18 @@
       "groupName": "STAFF",
       "chatId": -1003985809807,
       "inviteLink": "https://t.me/+8s6mt8ZbPMljOGZl",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-05-24T05:22:38.233Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-05-24T05:23:44.247Z",
+      "usedByUserId": 1103956278,
+      "usedByUsername": "yatimlutolol",
+      "revokedAt": "2026-05-24T05:23:44.247Z"
     }
   },
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:23:39.269Z"
+    "updatedAt": "2026-05-24T05:23:44.247Z"
   }
 }
