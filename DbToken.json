@@ -50,17 +50,108 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-05-24T05:22:16.604Z",
-      "updatedAt": "2026-05-24T05:22:36.140Z",
+      "updatedAt": "2026-05-24T05:22:38.557Z",
       "approvedBy": 1339031742,
       "approvedByUsername": "ikyymaunikah",
       "finalPeriod": "permanent",
+      "expiresAt": null,
+      "inviteLinks": [
+        {
+          "role": "staff",
+          "groupName": "FULLUP",
+          "chatId": -1003901427482,
+          "inviteLink": "https://t.me/+VPvSFwWf30c3ZTU1",
+          "status": "active",
+          "createdAt": "2026-05-24T05:22:37.198Z",
+          "expiresAt": null
+        },
+        {
+          "role": "staff",
+          "groupName": "RESELLER",
+          "chatId": -1003932704553,
+          "inviteLink": "https://t.me/+U_Ud69EJArUwMmI1",
+          "status": "active",
+          "createdAt": "2026-05-24T05:22:37.542Z",
+          "expiresAt": null
+        },
+        {
+          "role": "staff",
+          "groupName": "VIP",
+          "chatId": -1003933043305,
+          "inviteLink": "https://t.me/+mD6XnIe3rDwyM2Q9",
+          "status": "active",
+          "createdAt": "2026-05-24T05:22:37.885Z",
+          "expiresAt": null
+        },
+        {
+          "role": "staff",
+          "groupName": "STAFF",
+          "chatId": -1003985809807,
+          "inviteLink": "https://t.me/+8s6mt8ZbPMljOGZl",
+          "status": "active",
+          "createdAt": "2026-05-24T05:22:38.233Z",
+          "expiresAt": null
+        }
+      ]
+    }
+  },
+  "buyerInvites": {
+    "https://t.me/+VPvSFwWf30c3ZTU1": {
+      "requestId": "1779600136299",
+      "requesterId": 1339031742,
+      "requesterUsername": "ikyymaunikah",
+      "buyerUsername": "yatimlutolol",
+      "role": "staff",
+      "groupName": "FULLUP",
+      "chatId": -1003901427482,
+      "inviteLink": "https://t.me/+VPvSFwWf30c3ZTU1",
+      "status": "active",
+      "createdAt": "2026-05-24T05:22:37.198Z",
+      "expiresAt": null
+    },
+    "https://t.me/+U_Ud69EJArUwMmI1": {
+      "requestId": "1779600136299",
+      "requesterId": 1339031742,
+      "requesterUsername": "ikyymaunikah",
+      "buyerUsername": "yatimlutolol",
+      "role": "staff",
+      "groupName": "RESELLER",
+      "chatId": -1003932704553,
+      "inviteLink": "https://t.me/+U_Ud69EJArUwMmI1",
+      "status": "active",
+      "createdAt": "2026-05-24T05:22:37.542Z",
+      "expiresAt": null
+    },
+    "https://t.me/+mD6XnIe3rDwyM2Q9": {
+      "requestId": "1779600136299",
+      "requesterId": 1339031742,
+      "requesterUsername": "ikyymaunikah",
+      "buyerUsername": "yatimlutolol",
+      "role": "staff",
+      "groupName": "VIP",
+      "chatId": -1003933043305,
+      "inviteLink": "https://t.me/+mD6XnIe3rDwyM2Q9",
+      "status": "active",
+      "createdAt": "2026-05-24T05:22:37.885Z",
+      "expiresAt": null
+    },
+    "https://t.me/+8s6mt8ZbPMljOGZl": {
+      "requestId": "1779600136299",
+      "requesterId": 1339031742,
+      "requesterUsername": "ikyymaunikah",
+      "buyerUsername": "yatimlutolol",
+      "role": "staff",
+      "groupName": "STAFF",
+      "chatId": -1003985809807,
+      "inviteLink": "https://t.me/+8s6mt8ZbPMljOGZl",
+      "status": "active",
+      "createdAt": "2026-05-24T05:22:38.233Z",
       "expiresAt": null
     }
   },
-  "buyerInvites": {},
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:22:36.140Z"
+    "updatedAt": "2026-05-24T05:22:38.557Z"
   }
 }
