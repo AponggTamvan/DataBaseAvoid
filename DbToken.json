@@ -50,7 +50,7 @@
       "caption": "",
       "status": "approved",
       "createdAt": "2026-05-24T05:22:16.604Z",
-      "updatedAt": "2026-05-24T05:23:29.020Z",
+      "updatedAt": "2026-05-24T05:23:34.533Z",
       "approvedBy": 1339031742,
       "approvedByUsername": "ikyymaunikah",
       "finalPeriod": "permanent",
@@ -70,7 +70,7 @@
           "groupName": "RESELLER",
           "chatId": -1003932704553,
           "inviteLink": "https://t.me/+U_Ud69EJArUwMmI1",
-          "status": "active",
+          "status": "joined",
           "createdAt": "2026-05-24T05:22:37.542Z",
           "expiresAt": null
         },
@@ -122,9 +122,13 @@
       "groupName": "RESELLER",
       "chatId": -1003932704553,
       "inviteLink": "https://t.me/+U_Ud69EJArUwMmI1",
-      "status": "active",
+      "status": "joined",
       "createdAt": "2026-05-24T05:22:37.542Z",
-      "expiresAt": null
+      "expiresAt": null,
+      "joinedAt": "2026-05-24T05:23:34.533Z",
+      "usedByUserId": 1103956278,
+      "usedByUsername": "yatimlutolol",
+      "revokedAt": "2026-05-24T05:23:34.533Z"
     },
     "https://t.me/+mD6XnIe3rDwyM2Q9": {
       "requestId": "1779600136299",
@@ -156,6 +160,6 @@
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:23:29.020Z"
+    "updatedAt": "2026-05-24T05:23:34.533Z"
   }
 }
