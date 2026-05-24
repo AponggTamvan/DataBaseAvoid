@@ -32,9 +32,9 @@
       "createdAt": "2026-05-24T05:20:43.025Z",
       "role": "owner",
       "tokenQuota": 10,
-      "tokensUsed": 1,
-      "tokensAvailable": 9,
-      "updatedAt": "2026-05-24T10:48:31.798Z"
+      "tokensUsed": 2,
+      "tokensAvailable": 8,
+      "updatedAt": "2026-05-24T10:48:32.815Z"
     }
   },
   "botTokens": {
@@ -47,6 +47,17 @@
       "status": "active",
       "createdAt": "2026-05-24T05:22:32.155Z",
       "updatedAt": "2026-05-24T05:22:32.155Z",
+      "reportCount": 0
+    },
+    "tok_1779619712815_me7t5m": {
+      "id": "tok_1779619712815_me7t5m",
+      "token": "8879063006:AAF4V-zKQ3KgE8xXnGmJAwU3B-Oy3MdiAL0",
+      "ownerId": 6532051395,
+      "ownerUsername": "ApongSkt",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-05-24T10:48:32.815Z",
+      "updatedAt": "2026-05-24T10:48:32.815Z",
       "reportCount": 0
     }
   },
@@ -180,6 +191,6 @@
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T10:48:31.798Z"
+    "updatedAt": "2026-05-24T10:48:32.815Z"
   }
 }
