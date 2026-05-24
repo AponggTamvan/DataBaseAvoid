@@ -1,9 +1,24 @@
 {
-  "users": {},
+  "users": {
+    "1339031742": {
+      "id": 1339031742,
+      "firstName": "¡m #ikyyjee 𝐓𝟓",
+      "lastName": "",
+      "username": "ikyymaunikah",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-05-24T05:20:41.959Z",
+      "updatedAt": "2026-05-24T05:20:41.959Z"
+    }
+  },
   "botTokens": {},
   "buyerRequests": {},
   "buyerInvites": {},
   "reports": [],
   "roleCatalog": {},
-  "meta": {}
+  "meta": {
+    "updatedAt": "2026-05-24T05:20:41.959Z"
+  }
 }
