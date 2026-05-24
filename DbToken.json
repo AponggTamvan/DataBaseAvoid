@@ -26,11 +26,25 @@
     }
   },
   "botTokens": {},
-  "buyerRequests": {},
+  "buyerRequests": {
+    "1779600136299": {
+      "id": "1779600136299",
+      "requesterId": 1339031742,
+      "requesterUsername": "ikyymaunikah",
+      "role": "staff",
+      "buyerUsername": "yatimlutolol",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAMyahKK6YG2COkuQHEAAX5odbUNCgqVAAILEGsbnrCQVFVwzW2ZDO08AQADAgADdwADOwQ",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-05-24T05:22:16.604Z",
+      "updatedAt": "2026-05-24T05:22:16.604Z"
+    }
+  },
   "buyerInvites": {},
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:22:15.112Z"
+    "updatedAt": "2026-05-24T05:22:16.604Z"
   }
 }
