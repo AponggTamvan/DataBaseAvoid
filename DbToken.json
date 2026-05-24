@@ -5,12 +5,12 @@
       "firstName": "anderteker",
       "lastName": "",
       "username": "yatimlutolol",
-      "role": null,
-      "tokenQuota": 0,
+      "role": "full_up",
+      "tokenQuota": 1,
       "tokensUsed": 0,
-      "tokensAvailable": 0,
+      "tokensAvailable": 1,
       "createdAt": "2026-05-24T05:23:59.513Z",
-      "updatedAt": "2026-05-24T05:24:42.355Z"
+      "updatedAt": "2026-05-24T05:25:13.806Z"
     },
     "1339031742": {
       "id": 1339031742,
@@ -180,6 +180,6 @@
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:24:58.391Z"
+    "updatedAt": "2026-05-24T05:25:13.806Z"
   }
 }
