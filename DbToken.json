@@ -11,6 +11,18 @@
       "tokensAvailable": 0,
       "createdAt": "2026-05-24T05:20:41.959Z",
       "updatedAt": "2026-05-24T05:20:41.959Z"
+    },
+    "6532051395": {
+      "id": 6532051395,
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "createdAt": "2026-05-24T05:20:43.025Z",
+      "role": "owner",
+      "tokenQuota": 10,
+      "tokensUsed": 0,
+      "tokensAvailable": 10,
+      "updatedAt": "2026-05-24T05:20:43.025Z"
     }
   },
   "botTokens": {},
@@ -19,6 +31,6 @@
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:20:41.959Z"
+    "updatedAt": "2026-05-24T05:20:43.025Z"
   }
 }
