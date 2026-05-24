@@ -14,15 +14,15 @@
     },
     "6532051395": {
       "id": 6532051395,
-      "firstName": "",
+      "firstName": "乂 𝐀𝐩𝐨𝐧𝐠𝐠 #𝐃𝐨𝐦𝐢𝐧𝐢𝐜",
       "lastName": "",
-      "username": "",
+      "username": "ApongSkt",
       "createdAt": "2026-05-24T05:20:43.025Z",
       "role": "owner",
       "tokenQuota": 10,
       "tokensUsed": 0,
       "tokensAvailable": 10,
-      "updatedAt": "2026-05-24T05:20:43.025Z"
+      "updatedAt": "2026-05-24T05:20:50.084Z"
     }
   },
   "botTokens": {},
@@ -31,6 +31,6 @@
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:20:43.025Z"
+    "updatedAt": "2026-05-24T05:20:50.084Z"
   }
 }
