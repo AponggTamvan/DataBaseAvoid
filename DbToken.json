@@ -48,15 +48,19 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAMyahKK6YG2COkuQHEAAX5odbUNCgqVAAILEGsbnrCQVFVwzW2ZDO08AQADAgADdwADOwQ",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-05-24T05:22:16.604Z",
-      "updatedAt": "2026-05-24T05:22:16.604Z"
+      "updatedAt": "2026-05-24T05:22:36.140Z",
+      "approvedBy": 1339031742,
+      "approvedByUsername": "ikyymaunikah",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "buyerInvites": {},
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:22:32.155Z"
+    "updatedAt": "2026-05-24T05:22:36.140Z"
   }
 }
