@@ -20,12 +20,24 @@
       "createdAt": "2026-05-24T05:20:43.025Z",
       "role": "owner",
       "tokenQuota": 10,
-      "tokensUsed": 0,
-      "tokensAvailable": 10,
-      "updatedAt": "2026-05-24T05:22:31.103Z"
+      "tokensUsed": 1,
+      "tokensAvailable": 9,
+      "updatedAt": "2026-05-24T05:22:32.155Z"
     }
   },
-  "botTokens": {},
+  "botTokens": {
+    "tok_1779600152155_xzkor6": {
+      "id": "tok_1779600152155_xzkor6",
+      "token": "8355494737:AAGll9SJFK-nF1xhgsxXC3kw53rQtjCx2kU",
+      "ownerId": 6532051395,
+      "ownerUsername": "ApongSkt",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-05-24T05:22:32.155Z",
+      "updatedAt": "2026-05-24T05:22:32.155Z",
+      "reportCount": 0
+    }
+  },
   "buyerRequests": {
     "1779600136299": {
       "id": "1779600136299",
@@ -45,6 +57,6 @@
   "reports": [],
   "roleCatalog": {},
   "meta": {
-    "updatedAt": "2026-05-24T05:22:31.103Z"
+    "updatedAt": "2026-05-24T05:22:32.155Z"
   }
 }
